@@ -1,9 +1,1 @@
-# Terima Kasih atas Dukungan Anda!
-
-![Donasi](https://github.com/username/repository-name/blob/main/donasi.gif?raw=true)
-
-Jika Anda merasa terbantu oleh proyek ini dan ingin memberikan dukungan, Anda bisa melakukan donasi melalui saluran berikut:
-
-- **[Tautan Donasi](https://contoh-donasi.com)**
-
-Terima kasih atas dukungan Anda!
+![ppbot](https://github.com/user-attachments/assets/f75ca91c-03e9-46d1-83b2-89fc32f7e15a)
